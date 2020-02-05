@@ -4,3 +4,11 @@ def vertical
 end
 
 vertical
+
+def horizontal
+  puts "-----------"
+end
+
+horizontal
+
+
